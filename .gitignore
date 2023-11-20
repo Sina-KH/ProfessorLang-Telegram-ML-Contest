@@ -1,0 +1,7 @@
+.idea/
+.DS_STORE
+/train/i.dataset/5.sources/
+/train/i.dataset/6.additionalSources/
+/train/i.dataset/6.sampleFiles/
+/train/iii.trainer/2.preprocessedData/
+/train/iii.trainer/6.preprocessedData/

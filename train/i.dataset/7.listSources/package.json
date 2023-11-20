@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "fast-glob": "^3.3.2",
+    "p-limit": "^5.0.0",
+    "shuffle-array": "^1.0.1",
+    "through2": "^4.0.2"
+  }
+}

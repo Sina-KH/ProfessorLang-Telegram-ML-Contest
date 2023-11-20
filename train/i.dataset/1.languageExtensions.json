@@ -1,0 +1,118 @@
+[
+    {
+        "lang": "OTHER",
+        "extensions": ["txt"]
+    },
+    {
+        "lang": "C",
+        "extensions": ["c", "h"]
+    },
+    {
+        "lang": "CPLUSPLUS",
+        "extensions": ["cpp", "c++", "cxx", "cc", "tcc", "tpp", "hpp", "hh", "hxx", "h"]
+    },
+    {
+        "lang": "CSHARP",
+        "extensions": ["cs"]
+    },
+    {
+        "lang": "CSS",
+        "extensions": ["css"]
+    },
+    {
+        "lang": "DART",
+        "extensions": ["dart"]
+    },
+    {
+        "lang": "DOCKER",
+        "extensions": ["dockerfile"]
+    },
+    {
+        "lang": "FUNC",
+        "extensions": ["fc"]
+    },
+    {
+        "lang": "GO",
+        "extensions": ["go"]
+    },
+    {
+        "lang": "HTML",
+        "extensions": ["html", "htm"]
+    },
+    {
+        "lang": "JAVA",
+        "extensions": ["java"]
+    },
+    {
+        "lang": "JAVASCRIPT",
+        "extensions": ["js"]
+    },
+    {
+        "lang": "JSON",
+        "extensions": ["json"]
+    },
+    {
+        "lang": "KOTLIN",
+        "extensions": ["kt", "kts"]
+    },
+    {
+        "lang": "LUA",
+        "extensions": ["lua"]
+    },
+    {
+        "lang": "NGINX",
+        "filenames": ["nginx.conf"]
+    },
+    {
+        "lang": "OBJECTIVE_C",
+        "extensions": ["m"]
+    },
+    {
+        "lang": "PHP",
+        "extensions": ["php"]
+    },
+    {
+        "lang": "POWERSHELL",
+        "extensions": ["ps1"]
+    },
+    {
+        "lang": "PYTHON",
+        "extensions": ["py"]
+    },
+    {
+        "lang": "RUBY",
+        "extensions": ["rb"]
+    },
+    {
+        "lang": "RUST",
+        "extensions": ["rs"]
+    },
+    {
+        "lang": "SHELL",
+        "extensions": ["sh"]
+    },
+    {
+        "lang": "SOLIDITY",
+        "extensions": ["sol"]
+    },
+    {
+        "lang": "SQL",
+        "extensions": ["sql"]
+    },
+    {
+        "lang": "SWIFT",
+        "extensions": ["swift"]
+    },
+    {
+        "lang": "TL",
+        "extensions": ["tl"]
+    },
+    {
+        "lang": "TYPESCRIPT",
+        "extensions": ["ts"]
+    },
+    {
+        "lang": "XML",
+        "extensions": ["xml"]
+    }
+]
